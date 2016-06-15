@@ -1,0 +1,621 @@
+Initialize engine version: 5.3.5f1 (960ebf59018a)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [aticfx32.dll 8.17.10.1452]
+    Renderer: AMD Radeon R7 200 Series
+    Vendor:   ATI
+    VRAM:     2026 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=1 INTZ=1 NULL=1 RESZ=1 SlowINTZ=1
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\daan\Desktop\GLR_GameJam_2016\test_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\daan\Desktop\GLR_GameJam_2016\test_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\daan\Desktop\GLR_GameJam_2016\test_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\daan\Desktop\GLR_GameJam_2016\test_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\daan\Desktop\GLR_GameJam_2016\test_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\daan\Desktop\GLR_GameJam_2016\test_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\daan\Desktop\GLR_GameJam_2016\test_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\daan\Desktop\GLR_GameJam_2016\test_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.126 seconds
+Platform assembly: C:\Users\daan\Desktop\GLR_GameJam_2016\test_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\daan\Desktop\GLR_GameJam_2016\test_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Initialize engine version: 5.3.5f1 (960ebf59018a)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [aticfx32.dll 8.17.10.1452]
+    Renderer: AMD Radeon R7 200 Series
+    Vendor:   ATI
+    VRAM:     2026 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=1 INTZ=1 NULL=1 RESZ=1 SlowINTZ=1
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\daan\Desktop\GLR_GameJam_2016\test_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\daan\Desktop\GLR_GameJam_2016\test_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\daan\Desktop\GLR_GameJam_2016\test_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\daan\Desktop\GLR_GameJam_2016\test_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\daan\Desktop\GLR_GameJam_2016\test_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\daan\Desktop\GLR_GameJam_2016\test_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\daan\Desktop\GLR_GameJam_2016\test_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\daan\Desktop\GLR_GameJam_2016\test_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.170 seconds
+Platform assembly: C:\Users\daan\Desktop\GLR_GameJam_2016\test_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\daan\Desktop\GLR_GameJam_2016\test_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Initialize engine version: 5.3.5f1 (960ebf59018a)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [aticfx32.dll 8.17.10.1452]
+    Renderer: AMD Radeon R7 200 Series
+    Vendor:   ATI
+    VRAM:     2026 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=1 INTZ=1 NULL=1 RESZ=1 SlowINTZ=1
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\daan\Desktop\GLR_GameJam_2016\test_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\daan\Desktop\GLR_GameJam_2016\test_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\daan\Desktop\GLR_GameJam_2016\test_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\daan\Desktop\GLR_GameJam_2016\test_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\daan\Desktop\GLR_GameJam_2016\test_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\daan\Desktop\GLR_GameJam_2016\test_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\daan\Desktop\GLR_GameJam_2016\test_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\daan\Desktop\GLR_GameJam_2016\test_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.139 seconds
+Platform assembly: C:\Users\daan\Desktop\GLR_GameJam_2016\test_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\daan\Desktop\GLR_GameJam_2016\test_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.403111 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 2ae8 -> priority: 1 
+<RI> Initialized touch support.
+<RI> Initialized touch support.
+UnloadTime: 1.308755 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 2410 -> priority: 1 
+UnloadTime: 1.291155 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 20d4 -> priority: 1 
+NetworkLobbyManager no GamePlayer prefab is registered. Please add a GamePlayer prefab.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 374)
+
+NetworkLobbyManager no GamePlayer prefab is registered. Please add a GamePlayer prefab.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 374)
+
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 374)
+
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 374)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.516266 ms
+
+Unloading 5 unusedUnloadTime: 0.498177 ms
+UnloadTime: 0.590577 ms
+ Assets to reduce memory usage. Loaded Objects now: 808.
+Total: 1.661733 ms (FindLiveObjects: 0.096311 ms CreateObjectMapping: 0.055244 ms MarkObjects: 1.486222 ms  DeleteObjects: 0.019066 ms)
+
+ArgumentException: The thing you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkLobbyManager.SceneLoadedForPlayer (UnityEngine.Networking.NetworkConnection conn, UnityEngine.GameObject lobbyPlayerGameObject) [0x00000] in <filename unknown>:0 
+  at UnityEng
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 808.
+Total: 2.946533 ms (FindLiveObjects: 0.111955 ms CreateObjectMapping: 0.077244 ms iarkObjects: 2.730444 ms  DeleteObjects: 0.021511 ms)
+
+ne.Networking.NetworkLobbyManager.OnServerSceneLoadedMessage (UnityEngine.Networking.NetworkMessage netMsg) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkConnection.HandleReader (UnityEngine.Networking.NetworkReader reader, Int32 receivedSize, Int32 channelId) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkConnection.HandleBytes (System.Byte[] buffer, Int32 receivedSize, Int32 channelId) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkConnection.TransportRecieve (System.Byte[] bytes, Int32 numBytes, Int32 channelId) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkServer.OnData (UnityEngine.Networking.NetworkConnection conn, Int32 receivedSize, Int32 channelId) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkServer+ServerSimpleWrapper.OnData (UnityEngine.Networking.NetworkConnection conn, Int32 receivedSize, Int32 channelId) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkServerSimple.HandleData (Int32 connectionId, Int32 channelId, Int32 receivedSize, Byte error) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkServerSimple.Update () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkServer.InternalUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkServer.Update () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkIdentity.UNetStaticUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 810.
+Total: 1.857289 ms (FindLiveObjects: 0.089955 ms CreateObjectMapping: 0.142755 ms MarkObjects: 1.601111 ms  DeleteObjects: 0.018088 ms)
+
+ArgumentException: The thing you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkLobbyManager.SceneLoadedForPlayer (UnityEngine.Networking.NetworkConnection conn, UnityEngine.GameObject lobbyPlayerGameObject) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkLobbyManager.OnServerSceneLoadedMessage (UnityEngine.Networking.NetworkMessage netMsg) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkConnection.HandleReader (UnityEngine.Networking.NetworkReader reader, Int32 receivedSize, Int32 channelId) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkConnection.HandleBytes (System.Byte[] buffer, Int32 receivedSize, Int32 channelId) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkConnection.TransportRecieve (System.Byte[] bytes, Int32 numBytes, Int32 channelId) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkServer.OnData (UnityEngine.Networking.NetworkConnection conn, Int32 receivedSize, Int32 channelId) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkServer+ServerSimpleWrapper.OnData (UnityEngine.Networking.NetworkConnection conn, Int32 receivedSize, Int32 channelId) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkServerSimple.HandleData (Int32 connectionId, Int32 channelId, Int32 receivedSize, Byte error) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkServerSimple.Update () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkServer.InternalUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkServer.Update () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkIdentity.UNetStaticUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+NullReferenceException: Object reference not set to an instance of an object
+  at Prototype.NetworkLobby.LobbyPlayer.OnDestroy () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnloadTime: 0.493777 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 654.
+Total: 1.279422 ms (FindLiveObjects: 0.074311 ms CreateObjectMapping: 0.044488 ms MarkObjects: 1.147911 ms  DeleteObjects: 0.008311 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Prototype.NetworkLobby.LobbyPlayer.OnDestroy () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.554888 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 654.
+Total: 1.714044 ms (FindLiveObjects: 0.092400 ms CreateObjectMapping: 0.047422 ms MarkObjects: 1.556133 ms  DeleteObjects: 0.012711 ms)
+
+Initialize engine version: 5.3.5f1 (960ebf59018a)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [aticfx32.dll 8.17.10.1452]
+    Renderer: AMD Radeon R7 200 Series
+    Vendor:   ATI
+    VRAM:     2026 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=1 INTZ=1 NULL=1 RESZ=1 SlowINTZ=1
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\daan\Desktop\GLR_GameJam_2016\test_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\daan\Desktop\GLR_GameJam_2016\test_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\daan\Desktop\GLR_GameJam_2016\test_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\daan\Desktop\GLR_GameJam_2016\test_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\daan\Desktop\GLR_GameJam_2016\test_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\daan\Desktop\GLR_GameJam_2016\test_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\daan\Desktop\GLR_GameJam_2016\test_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\daan\Desktop\GLR_GameJam_2016\test_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.180 seconds
+Platform assembly: C:\Users\daan\Desktop\GLR_GameJam_2016\test_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\daan\Desktop\GLR_GameJam_2016\test_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.184089 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 2d4c -> priority: 1 
+NetworkLobbyManager no GamePlayer prefab is registered. Please add a GamePlayer prefab.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Failed to send internal buffer channel:0 bytesToSend:33
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Send Error: 2 channel:0 bytesToSend:33
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Empty player list given to NetworkServer.Destroy(), nothing to do.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+NetworkLobbyManager no GamePlayer prefab is registered. Please add a GamePlayer prefab.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Failed to send internal buffer channel:0 bytesToSend:33
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Send Error: 2 channel:0 bytesToSend:33
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Empty player list given to NetworkServer.Destroy(), nothing to do.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.639955 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 657.
+Total: 1.218800 ms (FindLiveObjects: 0.082133 ms CreateObjectMapping: 0.075288 ms MarkObjects: 1.043777 ms  DeleteObjects: 0.012711 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.462977 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 654.
+Total: 1.161600 ms (FindLiveObjects: 0.077733 ms CreateObjectMapping: 0.060622 ms MarkObjects: 1.010044 ms  DeleteObjects: 0.008311 ms)
+
+NetworkLobbyManager no GamePlayer prefab is registered. Please add a GamePlayer prefab.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 374)
+
+NetworkLobbyManager no GamePlayer prefab is registered. Please add a GamePlayer prefab.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 374)
+
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 374)
+
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 374)
+
+NetworkLobbyManager no GamePlayer prefab is registered. Please add a GamePlayer prefab.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+DontDestroyOnLoad only worDontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 374)
+
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 374)
+
+DontDestroyD Load only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 374)
+
+for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 374)
+
+ontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 374)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 2 Unused Serialized files (Serialized files now loUdnlo 0)
+g 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.523600 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 887.
+Total: 1.930133 ms (FindLiveObjects: 0.103644 ms CreateObjectMapping: 0.046444 ms MarkObjects: 1.737022 ms  DeleteObjects: 0.019555 ms)
+
+UnloadTime: 0.464444 ms
+UnloadTime: 0.789066 ms
+UnloadTime: 0.460044 ms
+ArgumentException: The thing you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkLobbyManager.SceneLoadedForPlayer (UnityEngine.Networking.NetworkConnection conn, UnityEngine.GameObject lobbyPlayerGameObject) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkLobbyManager.OnServerSceneLoadedMessage (UnityEngine.Networking.NetworkMessage netMsg) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkConnection.HandleReader (UnityEngine.Networking.NetworkReader reader, Int32 receivedSize, Int32 channelId) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkConnection.HandleBytes (System.Byte[] buffer, Int32 receivedSize, Int32 channelId) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkConnection.TransportRecieve (System.Byte[] bytes, Int32 numBytes, Int32 channelId) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkServer.OnData (UnityEngine.Networking.NetworkConnection conn, Int32 receivedSize, Int32 channelId) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkServer+ServerSimpleWrapper.OnData (UnityEngine.Networking.NetworkConnection conn, Int32 receivedSize, Int32 channelId) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkServerSimple.HandleData (Int32 connectionId, Int32 channelId, Int32 receivedSize, Byte error) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkServerSimple.Update () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkServer.InternalUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkServer.Update () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkIdentity.UNetStaticUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 890.
+Total: 2.602844 ms (FindLiveObjects: 0.121733 ms CreateObjectMapping: 0.104622 ms MarkObjects: 2.345200 ms  DeleteObjects: 0.025911 ms)
+
+ArgumentException: The thing you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkLobbyManager.SceneLoadedForPlayer (UnityEngine.Networking.NetworkConnection conn, UnityEngine.GameObject lobbyPlayerGameObject) [0x00000] in <filename unknown>:0 
+  at UnityE
+Ugnneoa.iNg 3 uorkiedng.NeAssets to rewuoerkLobbyyMaage. Loaded Objects now: 887.
+Total: 2.760267 ms (FindLiveObjects: 0.107066 ms CreateObjectMapping: 0.091422 ms MarkObjects: 2.533422 ms  DeleteObjectn:a0.023955 ms)
+
+ger.OnServerSceneLoadedMessage (UnityEngine.Networking.NetworkMessage netMsg) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkConnection.HandleReader (UnityEngine.Networking.Ne
+Unloadingt3 unused Aswets to reduce memory usage. Loaded Objects now: 887.
+Total: 3.518533 ms (FindLiveObjects: 0.092888 ms CreateObjectMapping: 0.044000 ms MarkObjects: 3.358667 ms  DeleteObjects: 0.018088 ms)
+
+orkReader reader, Int32 receivedSize, Int32 channelId) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkConnection.HandleBytes (System.Byte[] buffer, Int32 receivedSize, Int32 channelId) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkConnection.TransportRecieve (System.Byte[] bytes, Int32 numBytes, Int32 channelId) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkServer.OnData (UnityEngine.Networking.NetworkConnection conn, Int32 receivedSize, Int32 channelId) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkServer+ServerSimpleWrapper.OnData (UnityEngine.Networking.NetworkConnection conn, Int32 receivedSize, Int32 channelId) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkServerSimple.HandleData (Int32 connectionId, Int32 channelId, Int32 receivedSize, Byte error) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkServerSimple.Update () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkServer.InternalUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkServer.Update () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkIdentity.UNetStaticUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: The thing you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkLobbyManager.SceneLoadedForPlayer (UnityEngine.Networking.NetworkConnection conn, UnityEngine.GameObject lobbyPlayerGameObject) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkLobbyManager.OnServerSceneLoadedMessage (UnityEngine.Networking.NetworkMessage netMsg) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkConnection.HandleReader (UnityEngine.Networking.NetworkReader reader, Int32 receivedSize, Int32 channelId) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkConnection.HandleBytes (System.Byte[] buffer, Int32 receivedSize, Int32 channelId) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkConnection.TransportRecieve (System.Byte[] bytes, Int32 numBytes, Int32 channelId) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkServer.OnData (UnityEngine.Networking.NetworkConnection conn, Int32 receivedSize, Int32 channelId) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkServer+ServerSimpleWrapper.OnData (UnityEngine.Networking.NetworkConnection conn, Int32 receivedSize, Int32 channelId) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkServerSimple.HandleData (Int32 connectionId, Int32 channelId, Int32 receivedSize, Byte error) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkServerSimple.Update () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkServer.InternalUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkServer.Update () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkIdentity.UNetStaticUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+NullReferenceException: Object reference not set to an instance of an object
+  at Prototype.NetworkLobby.LobbyPlayer.OnDestroy () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnloadTime: 0.594000 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 654.
+Total: 1.336133 ms (FindLiveObjects: 0.081155 ms CreateObjectMapping: 0.066000 ms MarkObjects: 1.174311 ms  DeleteObjects: 0.009777 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Prototype.NetworkLobby.LobbyPlayer.OnDestroy () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Prototype.NetworkLobby.LobbyPlayer.OnDestroy () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.745066 ms
+Unloading 2 Unused Serialized files (Serialized fi
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 654.
+Total: 1.128355 ms (FindLiveObjects: 0.082133 ms CreateObjectMapping: 0.046444 ms MarkObjects: 0.985111 ms  DeleteObjects: 0.009777 ms)
+
+les nowUnloadel:adin) 2
+ Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.533377 ms
+UnloadTime: 0.852622 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 654.
+Total: 1.841155 ms (FindLiveObjects: 0.080666 ms CreateObjectMapping: 0.054266 ms MarkObjects: 1.687644 ms  DeleteObjects: 0.013200 ms)
+
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 654.
+Total: 3.462311 ms (FindLiveObjects: 0.076755 ms CreateObjectMapping: 0.043511 ms MarkObjects: 3.325422 ms  DeleteObjects: 0.010755 ms)
+
+NetworkLobbyManager no GamePlayer prefab is registered. Please add a GamePlayer prefab.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 374)
+
+NetworkLobbyManager no GamePlayer prefab is registered. Please add a GamePlayer prefab.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+DontDestroyOnLoad only work for root GameObjects or components on rootDGamenbjects.oy
+On
+Loilenam o: lyLinork f7or
+ 
+rooDontDestroytsOnLoad onnlyt  work forGameOtbGjeeObj.
+c s or c
+(Fonints ame: on root374 G
+a
+meObjects.
+ 
+(Filename:  Line: 374)
+
+NetworkLobbyManager no GamePlayer prefab is registered. Please add a GamePlayer prefab.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Initialize engine version: 5.3.5f1 (960ebf59018a)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [aticfx32.dll 8.17.10.1452]
+    Renderer: AMD Radeon R7 200 Series
+    Vendor:   ATI
+    VRAM:     2026 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=1 INTZ=1 NULL=1 RESZ=1 SlowINTZ=1
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\daan\Desktop\GLR_GameJam_2016\test_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\daan\Desktop\GLR_GameJam_2016\test_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\daan\Desktop\GLR_GameJam_2016\test_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\daan\Desktop\GLR_GameJam_2016\test_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\daan\Desktop\GLR_GameJam_2016\test_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\daan\Desktop\GLR_GameJam_2016\test_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\daan\Desktop\GLR_GameJam_2016\test_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\daan\Desktop\GLR_GameJam_2016\test_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.185 seconds
+Platform assembly: C:\Users\daan\Desktop\GLR_GameJam_2016\test_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\daan\Desktop\GLR_GameJam_2016\test_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.113689 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 184 -> priority: 1 
+NetworkLobbyManager no GamePlayer prefab is registered. Please add a GamePlayer prefab.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 374)
+
+NetworkLobbyManager no GamePlayer prefab is registered. Please add a GamePlayer prefab.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 374)
+
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 374)
+
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 374)
+
+NetworkLobbyManager no GamePlayer prefab is registered. Please add a GamePlayer prefab.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 374)
+D
+oontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 374)
+
+DontDestroyOnLoad only work for noot GameObjects or components on for roameObjects.
+ 
+(Filename:  Line: 374)
+
+ot GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 374)
+
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 374)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.538755 ms
+UnloadTime: 0.738711 ms
+UnloadTime: 1.624089 ms
+UnloadTime: 0.854088 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 887.
+Total: 1.691066 ms (FindLiveObjects: 0.102666 ms CreateObjectMapping: 0.051822 ms MarkObjects: 1.515066 ms  DeleteObjects: 0.016133 ms)
+
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 887.
+Total: 2.097822 ms (FindLiveObjects: 0.092888 ms CreateObjectMapping: 0.111955 ms MarkObjects: 1.867066 ms  DeleteObjects: 0.020533 ms)
+
+ArgumentException: The thing you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkLobbyManager.SceneLoadedForPlayer (UnityEngine.Networking.NetworkConnection conn, UnityEngine.GameObject lobbyPlayerGameObjec
+ Unloadi0n i  <finlename uukned Assets to reduce memory usage. Loaded Objects nown>:0 
+  at UnityEngine.Networking.Netwo: 887.
+Total: 2.299244 ms (FindLiveObjects: 0.173555 ms CreateObjectMappinrkgobbyM a.09ager.OnServerSceneLo22 ms MarkObdedMeects: 2.000044 ms  DeleteObjects: 0.029333 msss
+ae (UnityEngine.Networking.NetworkMessage netMsg) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkConnection.HandleReader (UnityEngine.Networking.NetworkReader reader, Int32 receivedSize, Int32 channelId) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkConnection.HandleBytes (System.Byte[] buffer, Int32 receivedSize, Int32 channelId) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkConnection.TransportRecieve (System.Byte[] bytes, Int32 numBytes, Int32 channelId) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkServer.OnData (UnityEngine.Networking.NetworkConnection conn, Int32 receivedSize, Int32 channelId) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkServer+ServerSimpleWrapper.OnData (UnityEngine.Networking.NetworkConnection conn, Int32 receivedSize, Int32 channelId) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkServerSimple.HandleData (Int32 connectionId, Int32 channelId, Int32 receivedSize, Byte error) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkServerSimple.Update () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkServer.InternalUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkServer.Update () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkIdentity.UNetStaticUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 890.
+Total: 5.577245 ms (FindLiveObjects: 0.110000 ms CreateObjectMapping: 0.184800 ms MarkObjects: 5.257022 ms  DeleteObjects: 0.020044 ms)
+
+ArgumentException: The thing you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkLobbyManager.SceneLoadedForPlayer (UnityEngine.Networking.NetworkConnection conn, UnityEngine.GameObject lobbyPlayerGameObject) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkLobbyManager.OnServerSceneLoadedMessage (UnityEngine.Networking.NetworkMessage netMsg) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkConnection.HandleReader (UnityEngine.Networking.NetworkReader reader, Int32 receivedSize, Int32 channelId) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkConnection.HandleBytes (System.Byte[] buffer, Int32 receivedSize, Int32 channelId) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkConnection.TransportRecieve (System.Byte[] bytes, Int32 numBytes, Int32 channelId) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkServer.OnData (UnityEngine.Networking.NetworkConnection conn, Int32 receivedSize, Int32 channelId) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkServer+ServerSimpleWrapper.OnData (UnityEngine.Networking.NetworkConnection conn, Int32 receivedSize, Int32 channelId) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkServerSimple.HandleData (Int32 connectionId, Int32 channelId, Int32 receivedSize, Byte error) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkServerSimple.Update () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkServer.InternalUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkServer.Update () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkIdentity.UNetStaticUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: The thing you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkLobbyManager.SceneLoadedForPlayer (UnityEngine.Networking.NetworkConnection conn, UnityEngine.GameObject lobbyPlayerGameObject) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkLobbyManager.OnServerSceneLoadedMessage (UnityEngine.Networking.NetworkMessage netMsg) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkConnection.HandleReader (UnityEngine.Networking.NetworkReader reader, Int32 receivedSize, Int32 channelId) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkConnection.HandleBytes (System.Byte[] buffer, Int32 receivedSize, Int32 channelId) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkConnection.TransportRecieve (System.Byte[] bytes, Int32 numBytes, Int32 channelId) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkServer.OnData (UnityEngine.Networking.NetworkConnection conn, Int32 receivedSize, Int32 channelId) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkServer+ServerSimpleWrapper.OnData (UnityEngine.Networking.NetworkConnection conn, Int32 receivedSize, Int32 channelId) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkServerSimple.HandleData (Int32 connectionId, Int32 channelId, Int32 receivedSize, Byte error) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkServerSimple.Update () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkServer.InternalUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkServer.Update () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkIdentity.UNetStaticUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.479600 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.704000 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 654.
+Total: 1.325377 ms (FindLiveObjects: 0.077244 ms CreateObjectMapping: 0.050844 ms MarkObjects: 1.184089 ms  DeleteObjects: 0.008311 ms)
+
+UnloadTime: 0.523111 ms
+UnloadTime: 0.485955 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 654.
+Total: 1.956044 ms (FindLiveObjects: 0.080177 ms CreateObjectMapping: 0.051333 ms MarkObjects: 1.808889 ms  DeleteObjects: 0.010266 ms)
+
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 654.
+Total: 1.794222 ms (FindLiveObjects: 0.086044 ms CreateObjectMapping: 0.043511 ms MarkObjects: 1.601600 ms  DeleteObjects: 0.011244 ms)
+
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 654.
+Total: 1.558577 ms (FindLiveObjects: 0.075777 ms CreateObjectMapping: 0.044000 ms MarkObjects: 1.423155 ms  DeleteObjects: 0.011244 ms)
+
