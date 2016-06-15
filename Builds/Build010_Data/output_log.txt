@@ -1,0 +1,45 @@
+Initialize engine version: 5.3.5f1 (960ebf59018a)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 970 (ID=0x13c2)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\rick\Desktop\GLR_GameJam_2016\Builds\Build010_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\rick\Desktop\GLR_GameJam_2016\Builds\Build010_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\rick\Desktop\GLR_GameJam_2016\Builds\Build010_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\rick\Desktop\GLR_GameJam_2016\Builds\Build010_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\rick\Desktop\GLR_GameJam_2016\Builds\Build010_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\rick\Desktop\GLR_GameJam_2016\Builds\Build010_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\rick\Desktop\GLR_GameJam_2016\Builds\Build010_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\rick\Desktop\GLR_GameJam_2016\Builds\Build010_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.047 seconds
+Platform assembly: C:\Users\rick\Desktop\GLR_GameJam_2016\Builds\Build010_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\rick\Desktop\GLR_GameJam_2016\Builds\Build010_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.455238 ms
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 374)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 2950 -> priority: 1 
+InvalidProgramException: Invalid IL code in Unity.GeneratedNetworkCode:_ReadMaterial_None (UnityEngine.Networking.NetworkReader): IL_0000: newobj    0x0a000142
+
+
+  at PlayerNetworkController.InvokeRpcRpcChangeColor (UnityEngine.Networking.NetworkBehaviour obj, UnityEngine.Networking.NetworkReader reader) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkIdentity.HandleRPC (Int32 cmdHash, UnityEngine.Networking.NetworkReader reader) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.ClientScene.OnRPCMessage (UnityEngine.Networking.NetworkMessage netMsg) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkConnection.HandleReader (UnityEngine.Networking.NetworkReader reader, Int32 receivedSize, Int32 channelId) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkConnection.HandleBytes (System.Byte[] buffer, Int32 receivedSize, Int32 channelId) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkConnection.TransportRecieve (System.Byte[] bytes, Int32 numBytes, Int32 channelId) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkClient.Update () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkClient.UpdateClients () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkIdentity.UNetStaticUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
